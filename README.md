@@ -3,8 +3,7 @@
 A full-stack Tour Booking Platform built with the **MERN (MongoDB, Express, React, Node.js)** stack. The application allows users to explore, book, and manage tours while providing an admin dashboard to manage destinations, bookings, users, and reviews.
 
 ---
-![Tour Booking Banner](https://your-image-url.com/banner.png)
----
+
 
 ## 🚀 Features
 
